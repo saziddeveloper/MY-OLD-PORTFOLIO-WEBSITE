@@ -1,0 +1,30 @@
+#profile-name span {
+    color: #0b9d16;
+}
+body{
+    background-color: #f4f4f4;
+}
+#up-body{
+    background-color: rgb(82, 204, 129);
+    min-height: 16rem;
+    border-radius: 10px 10px 0px 0px;
+}
+#down-body{
+    background-color: rgb(232, 236, 234);
+    min-height: 16rem 
+}
+/* #main-content-area{
+    height: 50%;
+} */
+#profile-image{
+    position: relative;
+    top: 3rem;
+    left: 3rem;
+    height: 15rem;
+}
+#social-link i {
+    font-size: 2rem;
+}
+#name-section h1,h2{
+    color: white;
+}
