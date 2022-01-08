@@ -48,3 +48,6 @@ body{
 #detail{
     color: rgb(15, 167, 15);
 }
+.list-item{
+    color: tomato;
+}
