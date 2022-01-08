@@ -1,5 +1,8 @@
 #profile-name span {
-    color: #0b9d16;
+    color: #2afb3c;
+}
+#profile-name{
+    color: white;
 }
 body{
     background-image: url("/img/th.jpg");
@@ -27,4 +30,11 @@ body{
 }
 #name-section h1,h2{
     color: white;
+}
+#down-text{
+    color: white;
+}
+#down-link{
+    color: rgb(246, 187, 22);
+    text-decoration: none;
 }
