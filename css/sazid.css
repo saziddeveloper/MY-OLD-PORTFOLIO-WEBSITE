@@ -5,7 +5,8 @@
     color: white;
 }
 body{
-    background-image: url("/img/th.jpg");
+    background-image: url("/img/abcd.jpg");
+    background-size: 100%;
 }
 #up-body{
     background-color: rgb(82, 204, 129);
