@@ -34,6 +34,10 @@ body{
 #down-text{
     color: white;
 }
+#addrees{
+    color: tomato;
+    text-decoration: none;
+}
 #down-link{
     color: rgb(21, 243, 21);
     text-decoration: none;
