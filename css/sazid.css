@@ -1,6 +1,9 @@
 #profile-name span {
     color: #0b9d16;
 }
+body{
+    background-image: url("/img/th.jpg");
+}
 #up-body{
     background-color: rgb(82, 204, 129);
     min-height: 16rem;
