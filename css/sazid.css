@@ -49,13 +49,28 @@ body{
     color: white;
     margin-bottom: auto;
 }
-#addrees{
+#email{
     color: tomato;
     text-decoration: none;
 }
-#down-link{
-    color: rgb(21, 243, 21);
+#email:hover{
+    color: rgb(24, 202, 24);
+}
+#mobile{
+    color: tomato;
     text-decoration: none;
+}
+#mobile:hover{
+    color: rgb(25, 191, 233);
+}
+#down-link{
+    background: #32f542;
+    color: rgb(21, 73, 243);
+    text-decoration: none;
+}
+#down-link:hover{
+    background: red;
+    color: white;
 }
 #cv-button{
     color: rgb(99, 248, 99);
