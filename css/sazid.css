@@ -15,7 +15,8 @@ body{
 }
 #down-body{
     background-color: rgb(232, 236, 234);
-    min-height: 16rem 
+    background: radial-gradient(circle ,rgb(245, 35, 35)50%, rgb(34, 246, 34)50%);
+    min-height: 16rem; 
 }
 /* #main-content-area{
     height: 50%;
@@ -25,6 +26,9 @@ body{
     top: 2rem;
     left: 5rem;
     height: 15rem;
+}
+#profile-image:hover{
+    box-shadow: 8px -8px 20px rgba(0,0,0,0.2), -8px 8px 20px rgba(0,0,0,0.2);
 }
 #social-link i {
     font-size: 3rem;
@@ -50,14 +54,14 @@ body{
     margin-bottom: auto;
 }
 #email{
-    color: tomato;
+    color: black;
     text-decoration: none;
 }
 #email:hover{
     color: rgb(24, 202, 24);
 }
 #mobile{
-    color: tomato;
+    color: black;
     text-decoration: none;
 }
 #mobile:hover{
