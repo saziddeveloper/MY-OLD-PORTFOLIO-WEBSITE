@@ -2,11 +2,10 @@
     color: #2afb3c;
 }
 #profile-name{
-    color: white;
+    color: black;
 }
 body{
-    background-image: url("/img/abcd.jpg");
-    background-size: 100%;
+    background-color: whitesmoke;
 }
 #up-body{
     background-color: rgb(82, 204, 129);
@@ -50,18 +49,18 @@ body{
     color: white;
 }
 #down-text{
-    color: white;
+    color: black;
     margin-bottom: auto;
 }
 #email{
-    color: black;
+    color: rgb(18, 246, 18);
     text-decoration: none;
 }
 #email:hover{
-    color: rgb(24, 202, 24);
+    color: rgb(25, 191, 233);
 }
 #mobile{
-    color: black;
+    color: rgb(18, 246, 18);
     text-decoration: none;
 }
 #mobile:hover{
@@ -79,9 +78,15 @@ body{
 #cv-button{
     color: rgb(99, 248, 99);
 }
-#detail{
-    color: rgb(15, 167, 15);
-}
 .list-item{
     color: tomato;
+}
+#more{
+    color: white;
+}
+#details{
+    color: white;
+}
+#detail{
+    color: black;
 }
