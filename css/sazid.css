@@ -53,14 +53,14 @@ body{
     margin-bottom: auto;
 }
 #email{
-    color: rgb(18, 246, 18);
+    color: rgb(56, 59, 246);
     text-decoration: none;
 }
 #email:hover{
     color: rgb(25, 191, 233);
 }
 #mobile{
-    color: rgb(18, 246, 18);
+    color: rgb(56, 59, 246);
     text-decoration: none;
 }
 #mobile:hover{
