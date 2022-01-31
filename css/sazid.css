@@ -13,13 +13,8 @@ body{
     border-radius: 10px 10px 0px 0px;
 }
 #down-body{
-    background-color: rgb(232, 236, 234);
     background: radial-gradient(circle ,rgb(245, 35, 35)50%, rgb(34, 246, 34)50%);
-    min-height: 16rem; 
 }
-/* #main-content-area{
-    height: 50%;
-} */
 #profile-image{
     position: relative;
     top: 2rem;
