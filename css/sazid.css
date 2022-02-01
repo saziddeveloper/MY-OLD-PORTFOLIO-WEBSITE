@@ -13,7 +13,7 @@ body{
     border-radius: 10px 10px 0px 0px;
 }
 #down-body{
-    background: radial-gradient(circle ,rgb(245, 35, 35)50%, rgb(34, 246, 34)50%);
+    background-color: #F7ECDE;
 }
 #profile-image{
     position: relative;
@@ -48,27 +48,27 @@ body{
     margin-bottom: auto;
 }
 #email{
-    color: rgb(56, 59, 246);
+    color: rgb(25, 191, 233);
     text-decoration: none;
 }
 #email:hover{
-    color: rgb(25, 191, 233);
+    color: #B8405E;
 }
 #mobile{
-    color: rgb(56, 59, 246);
+    color: rgb(25, 191, 233);
     text-decoration: none;
 }
 #mobile:hover{
-    color: rgb(25, 191, 233);
+    color: #B8405E;
 }
 #down-link{
-    background: #32f542;
-    color: rgb(21, 73, 243);
+    background: #7897AB;
+    color: #D885A3;
     text-decoration: none;
 }
 #down-link:hover{
-    background: red;
-    color: white;
+    background: #11468F;
+    color: #DA1212;
 }
 #cv-button{
     color: rgb(99, 248, 99);
@@ -77,11 +77,11 @@ body{
     color: tomato;
 }
 #more{
-    color: white;
+    color: #313552;
 }
 #details{
-    color: white;
+    color: #313552;
 }
 #detail{
-    color: black;
+    color: #54BAB9;
 }
