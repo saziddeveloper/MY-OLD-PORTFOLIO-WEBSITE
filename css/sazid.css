@@ -1,5 +1,5 @@
 #profile-name span {
-    color: #2afb3c;
+    color: #338F4D;
 }
 #profile-name{
     color: black;
@@ -62,13 +62,11 @@ body{
     color: #B8405E;
 }
 #down-link{
-    background: #FF7A7A;
     color: #338F4D;
     text-decoration: none;
 }
 #down-link:hover{
-    background: #11468F;
-    color: #DA1212;
+    color: #DB5353;
 }
 #cv-button{
     color: rgb(99, 248, 99);
