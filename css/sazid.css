@@ -48,25 +48,25 @@ body{
     margin-bottom: auto;
 }
 #email{
-    color: rgb(25, 191, 233);
+    color: #2D8F8A;
     text-decoration: none;
 }
 #email:hover{
-    color: #B8405E;
+    color: #14665F;
 }
 #mobile{
-    color: rgb(25, 191, 233);
+    color: #2D8F8A;
     text-decoration: none;
 }
 #mobile:hover{
-    color: #B8405E;
+    color: #14665F;
 }
 #down-link{
-    color: #338F4D;
+    color: #2D8F8A;
     text-decoration: none;
 }
 #down-link:hover{
-    color: #DB5353;
+    color: #14665F;
 }
 #cv-button{
     color: rgb(99, 248, 99);
@@ -81,5 +81,5 @@ body{
     color: #313552;
 }
 #detail{
-    color: #54BAB9;
+    color: #2D8F8A;
 }
