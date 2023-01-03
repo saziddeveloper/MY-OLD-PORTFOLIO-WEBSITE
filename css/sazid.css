@@ -21,12 +21,7 @@ body{
     left: 5rem;
     height: 15rem;
 }
-@media screen and (max-width: 720px) {
-  #profile-image{
-    position: relative;
-    top: 2rem;
-    left: 4.2rem;
-}
+
 #profile-image:hover{
     box-shadow: 8px -8px 20px rgba(0,0,0,0.2), -8px 8px 20px rgba(0,0,0,0.2);
 }
@@ -88,4 +83,15 @@ body{
 }
 #detail{
     color: #2D8F8A;
+}
+@media screen and (max-width: 720px) {
+
+  #profile-image{
+
+    position: relative;
+
+    top: 2rem;
+
+    left: 4.2rem;
+
 }
