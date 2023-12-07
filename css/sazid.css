@@ -28,18 +28,8 @@ body{
 #social-link i {
     font-size: 3rem;
 }
-.fa-facebook{
-    background-color: white;
-    color: #4DABF7;
-    border-radius: 8rem;
-}
-.fa-twitter{
-    color: #4DABF7;
-}
-.fa-instagram{
-    background-color: white;
-    color: #c3420f;
-    border-radius: 9rem;
+#facebooklogo {
+    color: blue;
 }
 #name-section h1,h2{
     color: white;
