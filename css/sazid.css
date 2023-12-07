@@ -37,9 +37,11 @@ a.fa {
   text-decoration: none;
   margin: 5px 2px;
   border-radius: 50%;
+  opacity: 1;
 }
 
 .fa:hover {
+    opacity: 1;
     -webkit-animation: spin 3s linear infinite;
     -moz-animation: spin 3s linear infinite;
     animation: spin 3s linear infinite;
