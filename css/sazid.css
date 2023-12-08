@@ -28,7 +28,7 @@ body{
 #name-section h1,h2{
     color: white;
 }
-
+/*
 a.fa {
   padding: 10px;
   font-size: 35px;
@@ -55,7 +55,7 @@ a.fa {
 @keyframes spin{
   100%{-webkit-transform: rotate(360deg);}
 }
-
+*/
 .fa-facebook {
   background: #3B5998;
   color: white;
