@@ -13,7 +13,7 @@ Looking for a skilled web developer for your next project? Look no further! I am
 
 ## Contact
 📧 Email: [saziddeveloper@gmail.com](saziddeveloper@gmail.com)
-🌐 Portfolio: [saziddeveloper.github.io](https://www.saziddeveloper.github.io)
+🌐 Portfolio: [saziddeveloper.github.io](https://saziddeveloper.github.io)
 🔗 GitHub: [github.com/saziddeveloper](https://github.com/saziddeveloper)
 
 Let's build something amazing together! 🚀
