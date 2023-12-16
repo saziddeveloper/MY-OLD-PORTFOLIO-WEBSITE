@@ -12,7 +12,7 @@ Assalamualaikum! 👋 I'm Ashaduzzaman Sazid, a dedicated web developer with a p
 Looking for a skilled web developer for your next project? Look no further! I am ready to bring your ideas to life. Let's collaborate to fulfill your dreams.
 
 ## Contact
-📧 Email: [saziddeveloper@gmail.com](saziddeveloper@gmail.com)
+📧 Email: [saziddeveloper@gmail.com](mailto:saziddeveloper@gmail.com)
 🌐 Portfolio: [saziddeveloper.github.io](https://saziddeveloper.github.io)
 🔗 GitHub: [github.com/saziddeveloper](https://github.com/saziddeveloper)
 
