@@ -15,6 +15,10 @@ body{
 #down-body{
     background-color: #F7ECDE;
 }
+.py-5 {
+    padding-top: 2.75rem !important;
+    padding-bottom: 1.1rem !important;
+}
 #profile-image{
     position: relative;
     top: 2rem;
