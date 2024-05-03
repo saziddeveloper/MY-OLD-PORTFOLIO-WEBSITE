@@ -3,8 +3,8 @@
 Assalamualaikum! 👋 I'm Ashaduzzaman Sazid, a dedicated web developer with a passion for creating responsive and innovative web pages. I specialize in utilizing Bootstrap, React.js, and Node.js to craft seamless user experiences. My expertise extends to proficiently handling backend operations using MongoDB.
 
 ## Skills
-- Frontend: Bootstrap, React.js
-- Backend: Node.js, MongoDB
+- Frontend: Bootstrap, React.js, Node.js
+- Backend: MySQL, MongoDB
 - Creative Thinking
 - Responsive Web Design
 
