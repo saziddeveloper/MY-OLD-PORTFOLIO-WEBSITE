@@ -15,10 +15,25 @@ body{
 #down-body{
     background-color: #F7ECDE;
 }
+
+/* ---------------------------------------------------------------------
+          This is custom css -  Forcefully change bootstrap css
+--------------------------------------------------------------------- */
 .py-5 {
     padding-top: 2.75rem !important;
     padding-bottom: 1.1rem !important;
 }
+/*----------------end---------------*/
+
+/* ----------------------------------------------------------------------------------------
+         This is custom css -  Change service page down-body css, from index page
+---------------------------------------------------------------------------------------- */
+.py-8 {
+    padding-top: 4.75rem;
+    padding-bottom: 2.25rem;
+}
+/*----------------end---------------*/
+
 #profile-image{
     position: relative;
     top: 2rem;
