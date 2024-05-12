@@ -39,10 +39,11 @@ body{
     top: 2rem;
     left: 5rem;
     height: 15rem;
+    border-radius: 15px;
 }
 
 #profile-image:hover{
-    box-shadow: 12px -12px 15px rgba(0,0,0,0.2), -12px 12px 15px rgba(0,0,0,0.2);
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
 }
 #name-section h1,h2{
     color: white;
@@ -57,6 +58,10 @@ a.fa {
   margin: 5px 2px;
   border-radius: 50%;
 }
+
+/* ---------------------------------------------------------------------
+              Disable Animation -  For the social icon
+--------------------------------------------------------------------- */
 /*
 .fa:hover {
     opacity: 1;
