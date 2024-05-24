@@ -161,4 +161,7 @@ a.fa {
     .offset-md-4 {
         margin-left: 0;
     }
+    #profile-image {
+        left: 2rem;
+    }
 }
