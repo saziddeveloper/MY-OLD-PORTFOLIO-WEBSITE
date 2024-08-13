@@ -1,5 +1,5 @@
-# SIMPLE-BANKING-SYSTEM
-BANKING SYSTEM USING JAVASCRIPT
+# saziddeveloper.github.io
+MY PORTFOLIO WEBSITE
 
 # Ashaduzzaman Sazid - Developer
 
