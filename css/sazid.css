@@ -7,6 +7,9 @@
 body{
     background-color: whitesmoke;
 }
+body b {
+    font-weight: 500;
+}
 #up-body{
     background-color: rgb(82, 204, 129);
     min-height: 15rem;
