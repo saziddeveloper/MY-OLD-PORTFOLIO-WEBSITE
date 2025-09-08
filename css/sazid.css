@@ -42,6 +42,7 @@ body b {
     position: relative;
     top: 2rem;
     left: 5rem;
+    width: 100%;
     height: 15rem;
     border-radius: 9px;
 }
