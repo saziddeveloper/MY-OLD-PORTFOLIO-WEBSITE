@@ -29,4 +29,5 @@ I focus on creating elegant digital experiences using React.js and Tailwind CSS 
 👩‍💻 GitHub: [github.com/saziddeveloper](https://github.com/saziddeveloper)  
 🤵 LinkedIn: [linkedin.com/saziddeveloper](https://www.linkedin.com/in/saziddeveloper)
 
-Let’s build something amazing together! 🚀
+Every great project starts with a single line of code — let’s keep writing ours. 💡
+— Ashaduzzaman Sajid
