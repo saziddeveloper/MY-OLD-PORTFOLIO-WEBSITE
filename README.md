@@ -19,9 +19,9 @@ I focus on creating elegant digital experiences using React.js and Tailwind CSS 
 - ⚡ Other: Deploy and integrate applications with Firebase, optimize performance, and apply problem-solving to enhance functionality and user experience.
   
 ## 🤝 Hire Me
-Looking for a skilled developer for your next project? Look no further!
-I am ready to bring your ideas to life. Let's collaborate to fulfill your dreams.
-💡 “Code is not just logic — it’s creativity in motion.”
+✨ Looking for a skilled developer for your next project? Look no further!
+✨ You can hire me for your next project and I will strive to fulfill your dreams.
+💡 “Development are not just jobs for me, they are my passions.”
 
 ## 📬 Contact
 📧 Email: [saziddeveloper@gmail.com](mailto:saziddeveloper@gmail.com)  
@@ -29,4 +29,4 @@ I am ready to bring your ideas to life. Let's collaborate to fulfill your dreams
 👩‍💻 GitHub: [github.com/saziddeveloper](https://github.com/saziddeveloper)  
 🤵 LinkedIn: [linkedin.com/saziddeveloper](https://www.linkedin.com/in/saziddeveloper)
 
-✨ Let’s build something amazing together — one line of code at a time!
+Let’s build something amazing together! 🚀
